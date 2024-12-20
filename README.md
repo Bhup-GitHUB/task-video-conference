@@ -1,2 +1,2 @@
-# Task for peloton-interactive-
+# Task for peloton-interactive
 
